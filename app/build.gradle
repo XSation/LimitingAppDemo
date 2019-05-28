@@ -26,6 +26,8 @@ dependencies {
     androidTestImplementation 'com.android.support.test:runner:1.0.2'
     androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.2'
     implementation 'com.google.android:flexbox:1.0.0'
-    implementation files('libs/limitapp-debug.aar')
+    implementation 'com.xk.limitapp:limitapp:1.0.0'
+//    implementation 'com.xk:kinject:1.0.0'
+
 
 }
